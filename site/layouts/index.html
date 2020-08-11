@@ -1,13 +1,27 @@
 {{ define "main" }}
 
+{{/* Hero Jumbotron */}}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{/*  */}}
 
-{{ partial "short-text" .Params.blurb}}
+{{/* The Need short-text */}}
+{{ partial "short-text" .Params.need }}
+{{/*  */}}
 
-{{ partial "2-up" .Params }}
+{{/* The Need media-block */}}
+{{ partial "media-block" .Params }}
+{{/*  */}}
 
+{{/* The Solution short-text */}}
+{{ partial "short-text" .Params.solution }}
+{{/*  */}}
+
+{{/* Stories CTA text-and-image */}}
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{/*  */}}
 
+{{/* Testimonials carousel */}}
 {{ partial "blog" . }}
+{{/*  */}}
 
 {{ end }}
