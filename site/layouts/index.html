@@ -4,16 +4,16 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 {{/*  */}}
 
-{{/* The Need short-text */}}
-{{ partial "short-text" .Params.need }}
-{{/*  */}}
-
-{{/* The Need media-block */}}
-{{ partial "media-block" .Params }}
+{{/* The Need media-block-reverse */}}
+{{ partial "media-block-reverse" .Params.need }}
 {{/*  */}}
 
 {{/* The Solution short-text */}}
 {{ partial "short-text" .Params.solution }}
+{{/*  */}}
+
+{{/* Products 2-up */}}
+{{ partial "2-up" .Params }}
 {{/*  */}}
 
 {{/* Stories CTA text-and-image */}}
