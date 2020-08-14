@@ -45,8 +45,8 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Mathias Environmental
+subtitle: Subtitle
 need:
   heading: The Need
   text: Air is flowing through your building constantly — cycling through multiple
@@ -82,5 +82,5 @@ blurb:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-image: /img/home-jumbotron.jpg
+image: img/virus.jpg
 ---
