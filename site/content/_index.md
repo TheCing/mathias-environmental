@@ -46,7 +46,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 title: Mathias Environmental
-subtitle: Subtitle
+subtitle: Breathe Cleaner Air
 need:
   heading: The Need
   text: Air is flowing through your building constantly — cycling through multiple
@@ -82,5 +82,5 @@ blurb:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-image: img/virus.jpg
+image: img/stacy-marie-mlx1dc-aj5k-unsplash.jpg
 ---
