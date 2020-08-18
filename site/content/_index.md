@@ -6,8 +6,8 @@ values:
     our solutions attractive for a wide range of buildings.  Not only are these
     solutions safe and efficient, but the results are clearly understandable and
     able to be explained easily to your staff, students and parents.
-products:
-  - image: img/uvc-1.png
+solutions:
+  - heading: Ultra Violet Light (UV-C)
     text: >
       UV light breaks down bacteria, viruses, molds, and other pathogens by
       damaging their DNA makeup, which is the fundamental building block of the
@@ -15,7 +15,7 @@ products:
       renders viruses inactive.
 
       The UV process is a physical, as opposed to a chemical, process. UV destroys or neutralizes viruses and microorganisms without chemically or physically impacting the indoor environment.
-  - image: img/bipolar.png
+  - heading: Bipolar Ionization
     text: >
       Bipolar Ionization is integrated into the HVAC system to distribute vast
       numbers of charged ions that attach themselves to viruses, bacteria, mold
@@ -23,7 +23,7 @@ products:
       physical/chemical structure.  It also causes very small particles to stick
       together to drop to the ground or allow your filtration system to be more
       effective in removing them from the air.
-  - image: img/advanced.png
+  - heading: Advanced Air Filtering
     text: Designing and placing advance air filter technology (i.e. HEPA or MERV 13+
       filters) into your existing system adds another level of effectiveness or
       another type of approach. There are various filter types and approaches
@@ -31,7 +31,7 @@ products:
       contaminants, including viruses and virus-laden particles. Your unique
       building and HVAC system will be thoroughly evaluated for this option by
       our team.
-  - image: img/outdoor.png
+  - heading: Outdoor Air
     text: Adding additional outdoor air into your indoor air environment is
       recommended by the CDC to improve indoor air quality and protect against
       the novel coronavirus and other airborne pathogens. Large increases in

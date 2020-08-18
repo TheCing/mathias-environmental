@@ -22,8 +22,6 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home Page"
         name: "home"
         fields:
-          - {label: Display Banner, name: displayBanner, widget: boolean, default: false}
-          - {label: Banner, name: banner, widget: string}
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
@@ -34,8 +32,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Solution", name: solution, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "markdown"}]}
+          - {label: "Challenge", name: challenge, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "Solutions", name: solutions, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
+              {label: "Heading", name: "heading", widget: "string"},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Stories", name: "stories", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},

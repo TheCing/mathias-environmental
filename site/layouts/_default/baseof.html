@@ -3,7 +3,7 @@
   {{ partial "head" . }}
   <body class="sans-serif">
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+    {{ block "header" . }}{{ partial "banner" (dict "displayBanner" true "stickyBanner" false "bannerText" "Under Construction") }}{{ partial "nav" . }}{{end}}
 
     {{ block "main" . }}{{ end }}
 

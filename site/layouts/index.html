@@ -1,27 +1,27 @@
 {{ define "main" }}
 
-{{/* Under Construction Banner */}}
-{{ partial "banner" .Params.text }}
-{{/*  */}}
-
 {{/* Hero Jumbotron */}}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 {{/*  */}}
 
-{{/* The Need short-text */}}
-{{ partial "short-text" .Params.need }}
+{{/* The Need media block */}}
+{{ partial "media-block-reverse" (dict "imageUrl" .Params.need.image "heading" .Params.need.heading "text" .Params.need.text) }}
 {{/*  */}}
 
 {{/* The Solution short-text */}}
 {{ partial "short-text" .Params.solution }}
 {{/*  */}}
 
-{{/* Products 2-up */}}
+{{/* The Challenge short-text */}}
+{{ partial "short-text" .Params.challenge }}
+{{/*  */}}
+
+{{/* Solutions 2-up */}}
 {{ partial "2-up" .Params }}
 {{/*  */}}
 
 {{/* Stories CTA text-and-image */}}
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/stories") }}
 {{/*  */}}
 
 {{/* Testimonials carousel */}}
