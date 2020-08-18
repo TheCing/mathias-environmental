@@ -58,13 +58,12 @@ solutions:
       together to drop to the ground or allow your filtration system to be more
       effective in removing them from the air.
   - heading: Advanced Air Filtering
-    text: Designing and placing advance air filter technology (i.e. HEPA or MERV 13+
-      filters) into your existing system adds another level of effectiveness or
-      another type of approach. There are various filter types and approaches
-      that can be considered, and some can capture up to 99% of airborne
-      contaminants, including viruses and virus-laden particles. Your unique
-      building and HVAC system will be thoroughly evaluated for this option by
-      our team.
+    text: Designing and placing advance air filter technology into your existing
+      system adds another level of effectiveness or another type of approach.
+      There are various filter types and approaches that can be considered, and
+      some can capture up to 99% of airborne contaminants, including viruses and
+      virus-laden particles. Your unique building and HVAC system will be
+      thoroughly evaluated for this option by our team.
   - heading: Outdoor Air Enhancement
     text: Adding additional outdoor air into your indoor air environment is
       recommended by the CDC to improve indoor air quality and protect against
@@ -75,11 +74,42 @@ solutions:
       properly.
 stories:
   heading: The Mathias Environmental Difference
-  text: Our approach, our team, and our ability to measure and certify results
-    makes our solutions attractive for a wide range of buildings. Not only are
-    these solutions safe and efficient, but the results are clearly
-    understandable and able to be explained easily to your staff, students and
-    parents.
+  text: >-
+    Our approach, our team, and our ability to measure and certify results makes
+    our solutions attractive for a wide range of buildings. Not only are these
+    solutions safe and efficient, but the results are clearly understandable and
+    able to be explained easily to your staff, clients and stakeholders.
+
+
+    Our approach, our team, and our ability to measure and certify results makes our
+
+    solutions attractive for a wide range of buildings. Not only are these solutions safe
+
+    and efficient, but customers can easily share these meaningful air quality improvements.
+
+
+
+    Our advantages include:
+
+
+    PRELIMINARY EVALUATION including testing of existing HVAC system
+
+
+    DESIGN, including 3rd party professional engineers
+
+
+    INSTALLATION by licensed & experienced professional contractor
+
+
+    LITTLE TO NO IMPACT on existing equipment and performance
+
+
+    TESTING AND COMMISSIONING of new work to measure and verify
+
+    effectiveness and performance by an independent firm
+
+
+    FINAL REPORT and certification
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
