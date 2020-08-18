@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+{{/* Under Construction Banner */}}
+{{ partial "banner" .Params.text }}
+{{/*  */}}
+
 {{/* Hero Jumbotron */}}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 {{/*  */}}
