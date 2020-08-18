@@ -65,7 +65,7 @@ solutions:
       contaminants, including viruses and virus-laden particles. Your unique
       building and HVAC system will be thoroughly evaluated for this option by
       our team.
-  - heading: Outdoor Air
+  - heading: Outdoor Air Enhancement
     text: Adding additional outdoor air into your indoor air environment is
       recommended by the CDC to improve indoor air quality and protect against
       the novel coronavirus and other airborne pathogens. Large increases in
