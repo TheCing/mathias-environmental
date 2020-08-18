@@ -40,7 +40,7 @@ values:
     solutions safe and efficient, but the results are clearly understandable and
     able to be explained easily to your staff, students and parents.
 intro:
-  heading: What we offer
+  heading: What We Offer
   text: Mathias Environmental helps schools, universities, medical offices,
     dental practices, restaurants, churches and office spaces to find properly
     designed HVAC solutions.
@@ -59,7 +59,7 @@ solution:
     analysis that we implement based on your needs and goals. Our solutions are
     based on science; they are measurable, confirmable, efficient, and
     effective.
-    
+
 
     Potential solutions include:
 
