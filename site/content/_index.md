@@ -41,10 +41,9 @@ values:
     able to be explained easily to your staff, students and parents.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: Mathias Environmental helps schools, universities, medical offices,
+    dental practices, restaurants, churches and office spaces to find properly
+    designed HVAC solutions.
 title: Mathias Environmental
 subtitle: Breathe Cleaner Air
 need:
@@ -60,21 +59,15 @@ solution:
     analysis that we implement based on your needs and goals. Our solutions are
     based on science; they are measurable, confirmable, efficient, and
     effective.
-
+    
 
     Potential solutions include:
 
-
     * UVC
-
     * Advanced Air Filtering
-
     * Bipolar Ionization
-
     * Outdoor Air Enhancement
-
     * Airflow Management
-
     * Controls and Scheduling
 blurb:
   heading: Why Kaldi?
