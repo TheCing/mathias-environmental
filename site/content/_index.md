@@ -1,4 +1,11 @@
 ---
+values:
+  heading: The Mathias Environmental Difference
+  text: >
+    Our approach, our team, and our ability to measure and certify results makes
+    our solutions attractive for a wide range of buildings.  Not only are these
+    solutions safe and efficient, but the results are clearly understandable and
+    able to be explained easily to your staff, students and parents.
 products:
   - image: img/uvc-1.png
     text: >
@@ -32,18 +39,13 @@ products:
       treating indoor air quality and can offer a highly effective solution. It
       is a solution that must be considered and implemented carefully and
       properly.
-values:
-  heading: The Mathias Environmental Difference
-  text: >
-    Our approach, our team, and our ability to measure and certify results makes
-    our solutions attractive for a wide range of buildings.  Not only are these
-    solutions safe and efficient, but the results are clearly understandable and
-    able to be explained easily to your staff, students and parents.
 intro:
   heading: What We Offer
-  text: Mathias Environmental helps schools, universities, medical offices,
-    dental practices, restaurants, churches and office spaces to find properly
-    designed HVAC solutions.
+  text: Mathias Environmental helps schools, universities, medical offices, dental
+    practices, restaurants, churches and office spaces to find properly designed
+    HVAC solutions.
+displayBanner: true
+banner: Under Construction
 title: Mathias Environmental
 subtitle: Breathe Cleaner Air
 need:
@@ -63,12 +65,14 @@ solution:
 
     Potential solutions include:
 
-    * UVC
-    * Advanced Air Filtering
-    * Bipolar Ionization
-    * Outdoor Air Enhancement
-    * Airflow Management
-    * Controls and Scheduling
+    * UVC * Advanced Air Filtering * Bipolar Ionization * Outdoor Air Enhancement * Airflow Management * Controls and Scheduling
+stories:
+  heading: The Mathias Environmental Difference
+  text: Our approach, our team, and our ability to measure and certify results
+    makes our solutions attractive for a wide range of buildings. Not only are
+    these solutions safe and efficient, but the results are clearly
+    understandable and able to be explained easily to your staff, students and
+    parents.
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
