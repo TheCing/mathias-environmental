@@ -81,6 +81,8 @@ stories:
     able to be explained easily to your staff, clients and stakeholders.
 
 
+
+
     Our approach, our team, and our ability to measure and certify results makes our
 
     solutions attractive for a wide range of buildings. Not only are these solutions safe
@@ -89,24 +91,37 @@ stories:
 
 
 
+
     Our advantages include:
+
+
 
 
     PRELIMINARY EVALUATION including testing of existing HVAC system
 
 
+
+
     DESIGN, including 3rd party professional engineers
+
+
 
 
     INSTALLATION by licensed & experienced professional contractor
 
 
+
+
     LITTLE TO NO IMPACT on existing equipment and performance
+
+
 
 
     TESTING AND COMMISSIONING of new work to measure and verify
 
     effectiveness and performance by an independent firm
+
+
 
 
     FINAL REPORT and certification
