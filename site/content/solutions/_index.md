@@ -31,9 +31,12 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What We Offer
-  description: Mathias Environmental helps high-use spaces such as schools,
+  description: Mathias Environmental helps high-use facilities such as schools,
     universities, medical offices, dental practices, restaurants, churches and
-    office spaces to find properly designed HVAC solutions.
+    office spaces to evaluate, design and implement effective indoor air quality
+    strategies to battle the spread of pathogens. These include SARS-CoV-2 novel
+    coronavirus and the H1N1 Flu virus. Our goal is to help you improve the
+    indoor air quality of your facilities and help protect those that use them.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -87,7 +90,10 @@ pricing:
       price: "?"
 type: products
 image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
-description: Mathias Environmental helps high-use spaces such as schools,
+description: Mathias Environmental helps high-use facilities such as schools,
   universities, medical offices, dental practices, restaurants, churches and
-  office spaces to find properly designed HVAC solutions.
+  office spaces to evaluate, design and implement effective indoor air quality
+  strategies to battle the spread of pathogens. These include SARS-CoV-2 novel
+  coronavirus and the H1N1 Flu virus. Our goal is to help you improve the indoor
+  air quality of your facilities and help protect those that use them.
 ---
