@@ -17,9 +17,7 @@ challenge:
     getting something you understand will be effective and practical.
 intro:
   heading: What We Offer
-  text: Mathias Environmental helps schools, universities, medical offices, dental
-    practices, restaurants, churches and office spaces to find properly designed
-    HVAC solutions.
+  text: Mathias Environmental helps high-use facilities such as schools, universities, medical offices, dental practices, restaurants, churches and office spaces to evaluate, design and implement effective indoor air quality strategies to battle the spread of pathogens. These include SARS-CoV-2 novel coronavirus and the H1N1 Flu virus. Our goal is to help you improve the indoor air quality of your facilities and help protect those that use them.
 banner: Under Construction
 displayBanner: true
 title: Mathias Environmental
