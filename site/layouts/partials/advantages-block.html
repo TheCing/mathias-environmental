@@ -2,29 +2,30 @@
 	<div class="ph3 mw7 center">
 
 		<div class="flex-l mhn2-l">
-			<div class="w-40-l ph2-l">
+			<div class="ph2-l">
 				<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
 
 				<p>{{.text}}</p>
 
 				<p>{{.advantagesHeading}}</p>
 
-		    <div class="flex-ns flex-wrap-ns mhn2-ns mb3">
-		      {{ range .advantages }}
-		      <div class="ph2-ns w-50-ns">
-		        <p>{{.advantage}}</p>
-		      </div>
-		      {{ end }}
-		    </div>
-			</div>
-
-			<div class="w-60-l ph2-l">
-				<img src="{{.imageUrl}}" alt="" class="mb3">
+				<ul class="advantages-list pb4">
+					<li>PRELIMINARY EVALUATION including testing of existing HVAC system</li>
+					<li>DESIGN, including 3rd party professional engineers</li>
+					<li>INSTALLATION by licensed & experienced professional contractor</li>
+					<li>LITTLE TO NO IMPACT on existing equipment and performance</li>
+					<li>TESTING AND COMMISSIONING of new work to measure and verify effectiveness and performance by an independent firm</li>
+					<li>FINAL REPORT and certification</li>
+				</ul>
 			</div>
 		</div>
 
+		<div class="ph2-l">
+			<img src="img/clyde-rs-4xbzcfu2uoo-unsplash.jpg" alt="" class="mb3">
+		</div>
+
 		<div class="tc">
-			<a href="{{.buttonLink}}" class="btn raise">{{.buttonText}}</a>
+			<a href="/stories" class="btn raise">Read our success stories</a>
 		</div>
 
 	</div>
