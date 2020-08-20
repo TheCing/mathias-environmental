@@ -87,13 +87,13 @@ stories:
     Our approach, our team, and our ability to measure and certify results makes our solutions attractive for a wide range of buildings. Not only are these solutions safe and efficient, but customers can easily share these meaningful air quality improvements.
 
 
-    Our advantages include:  
+    Our advantages include:
 
 
-    PRELIMINARY EVALUATION including testing of existing HVAC system  
+    PRELIMINARY EVALUATION including testing of existing HVAC system
 
 
-    DESIGN, including 3rd party professional engineers  
+    DESIGN, including 3rd party professional engineers
 
 
     INSTALLATION by licensed & experienced professional contractor  
