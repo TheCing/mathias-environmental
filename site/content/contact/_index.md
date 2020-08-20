@@ -7,4 +7,4 @@ contact_entries:
   - heading: Phone
     text: 706-705-6322
 ---
-<h3 class="mv2>Contact Us</h3>
+<h3 class="f4 b lh-title mb2">Contact Us</h3>
