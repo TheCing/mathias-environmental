@@ -17,7 +17,12 @@ challenge:
     getting something you understand will be effective and practical.
 intro:
   heading: What We Offer
-  text: Mathias Environmental helps high-use facilities such as schools, universities, medical offices, dental practices, restaurants, churches and office spaces to evaluate, design and implement effective indoor air quality strategies to battle the spread of pathogens. These include SARS-CoV-2 novel coronavirus and the H1N1 Flu virus. Our goal is to help you improve the indoor air quality of your facilities and help protect those that use them.
+  text: Mathias Environmental helps high-use facilities such as schools,
+    universities, medical offices, dental practices, restaurants, churches and
+    office spaces to evaluate, design and implement effective indoor air quality
+    strategies to battle the spread of pathogens. These include SARS-CoV-2 novel
+    coronavirus and the H1N1 Flu virus. Our goal is to help you improve the
+    indoor air quality of your facilities and help protect those that use them.
 banner: Under Construction
 displayBanner: true
 title: Mathias Environmental
@@ -79,50 +84,29 @@ stories:
     able to be explained easily to your staff, clients and stakeholders.
 
 
+    Our approach, our team, and our ability to measure and certify results makes our solutions attractive for a wide range of buildings. Not only are these solutions safe and efficient, but customers can easily share these meaningful air quality improvements.
 
 
-    Our approach, our team, and our ability to measure and certify results makes our
-
-    solutions attractive for a wide range of buildings. Not only are these solutions safe
-
-    and efficient, but customers can easily share these meaningful air quality improvements.
+    Our advantages include:  
 
 
+    PRELIMINARY EVALUATION including testing of existing HVAC system  
 
 
-    Our advantages include:
+    DESIGN, including 3rd party professional engineers  
 
 
+    INSTALLATION by licensed & experienced professional contractor  
 
 
-    PRELIMINARY EVALUATION including testing of existing HVAC system
+    LITTLE TO NO IMPACT on existing equipment and performance  
 
 
-
-
-    DESIGN, including 3rd party professional engineers
-
-
-
-
-    INSTALLATION by licensed & experienced professional contractor
-
-
-
-
-    LITTLE TO NO IMPACT on existing equipment and performance
-
-
-
-
-    TESTING AND COMMISSIONING of new work to measure and verify
-
-    effectiveness and performance by an independent firm
-
-
+    TESTING AND COMMISSIONING of new work to measure and verify effectiveness and performance by an independent firm  
 
 
     FINAL REPORT and certification
+  image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
