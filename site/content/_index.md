@@ -77,36 +77,20 @@ solutions:
       properly.
 stories:
   heading: The Mathias Environmental Difference
-  text: >-
-    Our approach, our team, and our ability to measure and certify results makes
-    our solutions attractive for a wide range of buildings. Not only are these
-    solutions safe and efficient, but the results are clearly understandable and
-    able to be explained easily to your staff, clients and stakeholders.
-
-
-    Our approach, our team, and our ability to measure and certify results makes our solutions attractive for a wide range of buildings. Not only are these solutions safe and efficient, but customers can easily share these meaningful air quality improvements.
-
-
-    Our advantages include:
-
-
-    PRELIMINARY EVALUATION including testing of existing HVAC system
-
-
-    DESIGN, including 3rd party professional engineers
-
-
-    INSTALLATION by licensed & experienced professional contractor  
-
-
-    LITTLE TO NO IMPACT on existing equipment and performance  
-
-
-    TESTING AND COMMISSIONING of new work to measure and verify effectiveness and performance by an independent firm  
-
-
-    FINAL REPORT and certification
+  text: Our approach, our team, and our ability to measure and certify results
+    makes our solutions attractive for a wide range of buildings. Not only are
+    these solutions safe and efficient, but customers can easily share these
+    meaningful air quality improvements.
   image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
+  advantagesHeading: "Our advantages include:"
+  advantages:
+    - PRELIMINARY EVALUATION including testing of existing HVAC system
+    - DESIGN, including 3rd party professional engineers
+    - INSTALLATION by licensed & experienced professional contractor
+    - LITTLE TO NO IMPACT on existing equipment and performance
+    - TESTING AND COMMISSIONING of new work to measure and verify effectiveness
+      and performance by an independent firm
+    - FINAL REPORT and certification
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
