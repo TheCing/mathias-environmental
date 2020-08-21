@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ partial "banner" (dict "displayBanner" true "stickyBanner" false "bannerText" "Under Construction") }}
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 <div class="mw7 center ph3 pt4">

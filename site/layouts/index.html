@@ -9,11 +9,11 @@
 {{/*  */}}
 
 {{/* The Solution short-text */}}
-{{ partial "short-text" .Params.solution }}
+{{ partial "media-block-reverse" (dict "imageUrl" .Params.solution.image "heading" .Params.solution.heading "text" .Params.solution.text) }}
 {{/*  */}}
 
 {{/* The Challenge short-text */}}
-{{ partial "short-text" .Params.challenge }}
+{{ partial "media-block-reverse" (dict "imageUrl" .Params.challenge.image "heading" .Params.challenge.heading "text" .Params.challenge.text) }}
 {{/*  */}}
 
 {{/* Solutions 2-up */}}

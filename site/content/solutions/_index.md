@@ -1,62 +1,41 @@
 ---
-heading: What We Offer
-pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-nsoving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: "?"
 title: Our Solutions
+heading: What We Offer
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image:
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        UV light breaks down bacteria, viruses, molds, and other pathogens by
+        damaging their DNA makeup, which is the fundamental building block of the
+        microorganism. This leads to the eventual death of the microorganism and
+        renders viruses inactive.
+
+        The UV process is a physical, as opposed to a chemical, process. UV destroys or neutralizes viruses and microorganisms without chemically or physically impacting the indoor environment.
+    - image:
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+        Bipolar Ionization is integrated into the HVAC system to distribute vast
+        numbers of charged ions that attach themselves to viruses, bacteria, mold
+        and other types of particles and render them harmless by changing their
+        physical/chemical structure.  It also causes very small particles to stick
+        together to drop to the ground or allow your filtration system to be more
+        effective in removing them from the air.
+    - image:
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+        Designing and placing advance air filter technology into your existing
+        system adds another level of effectiveness or another type of approach.
+        There are various filter types and approaches that can be considered, and
+        some can capture up to 99% of airborne contaminants, including viruses and
+        virus-laden particles. Your unique building and HVAC system will be
+        thoroughly evaluated for this option by our team.
+    - image:
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Adding additional outdoor air into your indoor air environment is
+        recommended by the CDC to improve indoor air quality and protect against
+        the novel coronavirus and other airborne pathogens. Large increases in
+        "fresh" air into your system is, perhaps, the most aggressive means of
+        treating indoor air quality and can offer a highly effective solution. It
+        is a solution that must be considered and implemented carefully and
+        properly.
   heading: What We Offer
   description: Mathias Environmental helps high-use facilities such as schools,
     universities, medical offices, dental practices, restaurants, churches and
@@ -64,30 +43,7 @@ intro:
     strategies to battle the spread of pathogens. These include SARS-CoV-2 novel
     coronavirus and the H1N1 Flu virus. Our goal is to help you improve the
     indoor air quality of your facilities and help protect those that use them.
-testimonials: []
-full_image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-type: products
+testimonials:
 image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
-description: Mathias Environmental helps high-use facilities such as schools,
-  universities, medical offices, dental practices, restaurants, churches and
-  office spaces to evaluate, design and implement effective indoor air quality
-  strategies to battle the spread of pathogens. These include SARS-CoV-2 novel
-  coronavirus and the H1N1 Flu virus. Our goal is to help you improve the indoor
-  air quality of your facilities and help protect those that use them.
+description:
 ---
