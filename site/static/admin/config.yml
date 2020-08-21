@@ -28,15 +28,15 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Need", name: need, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}]}
+              {label: "Image", name: "image", widget: "image", required: false}]}
           - {label: "Solution", name: solution, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}]}
+              {label: "Image", name: "image", widget: "image", required: false}]}
           - {label: "Challenge", name: challenge, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}]}
+              {label: "Image", name: "image", widget: "image", required: false}]}
           - {label: "Solutions", name: solutions, widget: list, fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Text", name: "text", widget: "text"}]}
@@ -63,27 +63,27 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
-      - file: "site/content/solutions/_index.md"
-        label: "Solutions Page"
-        name: "solutions"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: text}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-      - file: "site/content/stories/_index.md"
-        label: "Stories Page"
-        name: "stories"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Stories
-            name: stories
-            widget: list
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+      # - file: "site/content/solutions/_index.md"
+      #   label: "Solutions Page"
+      #   name: "solutions"
+      #   fields:
+      #     - {label: Title, name: title, widget: string}
+      #     - {label: Image, name: image, widget: image}
+      #     - {label: Heading, name: heading, widget: text}
+      #     - {label: Description, name: description, widget: string}
+      #     - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+      #     - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+      #     - {label: Full_image, name: full_image, widget: image}
+      # - file: "site/content/stories/_index.md"
+      #   label: "Stories Page"
+      #   name: "stories"
+      #   fields:
+      #     - {label: Title, name: title, widget: string}
+      #     - {label: Image, name: image, widget: image}
+      #     - label: Stories
+      #       name: stories
+      #       widget: list
+      #       fields:
+      #         - {label: Heading, name: heading, widget: string}
+      #         - {label: Text, name: text, widget: text}
+      #         - {label: Image, name: imageUrl, widget: image}

@@ -1,6 +1,18 @@
 .nav-logo {
   max-width: unset;
-  width: 6rem;
+  width: 7rem;
+}
+
+.tj {
+  text-align: justify;
+}
+
+body > .media-block-reverse img {
+  width: 100%;
+}
+
+body > .media-block-reverse ~ .media-block-reverse img {
+  width: unset;
 }
 
 .advantages-list {
