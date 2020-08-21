@@ -15,7 +15,7 @@ challenge:
     construction, maintenance and management of buildings and building
     mechanical systems.  It is the difference between getting "something" and
     getting something you understand will be effective and practical.
-  image: img/virus.jpg
+  image: ""
 intro:
   heading: What We Offer
   text: Mathias Environmental helps high-use facilities such as schools,
@@ -44,7 +44,7 @@ solution:
 
 
     Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management, Controls and Scheduling
-  image: img/uvc-pic-for-website.png
+  image: img/virus.jpg
 solutions:
   - heading: Ultra Violet Light (UV-C)
     text: >
