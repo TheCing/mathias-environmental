@@ -81,8 +81,10 @@ stories:
   heading: The Mathias Environmental Difference
   text: Our approach, our team, and our ability to measure and certify results
     makes our solutions attractive for a wide range of buildings. Not only are
-    these solutions safe and efficient, but customers can easily share these
-    meaningful air quality improvements.
+    these solutions safe and efficient, but our clients can easily share these
+    meaningful air quality improvements with those they are working hard to
+    protect.  This demonstrates an obvious level of care and concern in terms of
+    health and safety.
   image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
   advantagesHeading: "Our advantages include:"
   advantages:
