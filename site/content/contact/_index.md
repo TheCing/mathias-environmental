@@ -13,6 +13,4 @@ contact_entries:
 ---
 <h3 class="f4 b lh-title mb2">Contact Us</h3>
 
-
-
 [info@gmail.com](mailto:info@gmail.com)
