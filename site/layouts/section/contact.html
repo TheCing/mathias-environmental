@@ -8,12 +8,28 @@
 		{{ .Content | safeHTML }}
 
 		<div class="flex-ns flex-wrap mb3">
-	        	{{ range .Params.contact_entries }}
-				<div class="mh2">
+    	<!-- {{ range .Params.contact_entries }} -->
+				<!-- <div class="mh2">
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
 					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
+				</div> -->
+			<!-- {{ end }} -->
+			<div class="mh2">
+				<h4 class="f4 b lh-title mb2 primary">Mathias Environmental Email</h4>
+				<p><a href="mailto:info@mathiasenvironmental.com">info@mathiasenvironmental.com</a></p>
+			</div>
+			<div class="mh2">
+				<h4 class="f4 b lh-title mb2 primary">Mathias Environmental Phone</h4>
+				<p><a href="tel:706-705-6322">706-705-6322</a></p>
+			</div>
+			<div class="mh2">
+				<h4 class="f4 b lh-title mb2 primary">Mathias Corporation Email</h4>
+				<p><a href="mailto:dheydinger@mathiascorp.com">dheydinger@mathiascorp.com</a></p>
+			</div>
+			<div class="mh2">
+				<h4 class="f4 b lh-title mb2 primary">Mathias Corporation Phone</h4>
+				<p><a href="tel:770-476-8100">770-476-8100</a></p>
+			</div>
 		</div>
 
 		{{ partial "contact-form" . }}
