@@ -13,7 +13,9 @@
 {{/*  */}}
 
 {{/* The Challenge short-text */}}
-{{ partial "media-block-reverse" (dict "imageUrl" .Params.challenge.image "heading" .Params.challenge.heading "text" .Params.challenge.text) }}
+<div class="pb4 bg-grey-1">
+  {{ partial "media-block-reverse" (dict "imageUrl" .Params.challenge.image "heading" .Params.challenge.heading "text" .Params.challenge.text) }}
+</div>
 {{/*  */}}
 
 {{/* Solutions 2-up */}}
