@@ -15,7 +15,7 @@ challenge:
     construction, maintenance and management of buildings and building
     mechanical systems.  It is the difference between getting "something" and
     getting something you understand will be effective and practical.
-  image: ""
+  image: img/Picture5.png
 intro:
   heading: What We Offer
   text: Mathias Environmental helps high-use facilities such as schools,
@@ -28,6 +28,7 @@ banner: Under Construction
 displayBanner: true
 title: Mathias Environmental
 subtitle: Breathe Cleaner Air
+image: img/stacy-marie-mlx1dc-aj5k-unsplash.jpg
 need:
   heading: The Need
   text: Air is flowing through your building constantly — cycling through multiple
@@ -101,5 +102,4 @@ blurb:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-image: img/stacy-marie-mlx1dc-aj5k-unsplash.jpg
 ---
