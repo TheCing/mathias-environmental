@@ -89,13 +89,15 @@ stories:
   image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
   advantagesHeading: "Our advantages include:"
   advantages:
-    - PRELIMINARY EVALUATION including testing of existing HVAC system
-    - DESIGN, including 3rd party professional engineers
-    - INSTALLATION by licensed & experienced professional contractor
+    - PRELIMINARY EVALUATION including testing of your existing HVAC system
+    - DESIGN, extensive options to include our professional engineering team
+    - INSTALLATION we are a licensed & experienced professional contractor
     - LITTLE TO NO IMPACT on existing equipment and performance
     - TESTING AND COMMISSIONING of new work to measure and verify effectiveness
-      and performance by an independent firm
-    - FINAL REPORT and certification
+      and performance
+    - FINAL REPORT and certification - So you not only know exactly what has
+      improved, you can share that great information with clients, employees,
+      customers, students or other important stakeholders
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
