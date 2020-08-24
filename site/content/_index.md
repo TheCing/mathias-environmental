@@ -15,7 +15,7 @@ challenge:
     construction, maintenance and management of buildings and building
     mechanical systems.  It is the difference between getting "something" and
     getting something you understand will be effective and practical.
-  image: ""
+  image: img/Picture5.png
 intro:
   heading: What We Offer
   text: Mathias Environmental helps high-use facilities such as schools,
@@ -28,6 +28,7 @@ banner: Under Construction
 displayBanner: true
 title: Mathias Environmental
 subtitle: Breathe Cleaner Air
+image: img/stacy-marie-mlx1dc-aj5k-unsplash.jpg
 need:
   heading: The Need
   text: Air is flowing through your building constantly — cycling through multiple
@@ -43,7 +44,7 @@ solution:
     effective.
 
 
-    Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management, Controls and Scheduling
+    Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management & Controls and Scheduling
   image: img/virus.jpg
 solutions:
   - heading: Ultra Violet Light (UV-C)
@@ -88,18 +89,20 @@ stories:
   image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
   advantagesHeading: "Our advantages include:"
   advantages:
-    - PRELIMINARY EVALUATION including testing of existing HVAC system
-    - DESIGN, including 3rd party professional engineers
-    - INSTALLATION by licensed & experienced professional contractor
+    - PRELIMINARY EVALUATION including testing of your existing HVAC system so
+      you know your starting point
+    - DESIGN, extensive options to include our professional engineering team
+    - INSTALLATION we are a licensed & experienced professional contractor
     - LITTLE TO NO IMPACT on existing equipment and performance
     - TESTING AND COMMISSIONING of new work to measure and verify effectiveness
-      and performance by an independent firm
-    - FINAL REPORT and certification
+      and performance
+    - FINAL REPORT and certification - So you not only know exactly what has
+      improved, you can share that great information with clients, employees,
+      customers, students or other important stakeholders
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-image: img/stacy-marie-mlx1dc-aj5k-unsplash.jpg
 ---
