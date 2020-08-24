@@ -44,7 +44,7 @@ solution:
     effective.
 
 
-    Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management, Controls and Scheduling
+    Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management & Controls and Scheduling
   image: img/virus.jpg
 solutions:
   - heading: Ultra Violet Light (UV-C)
