@@ -10,12 +10,9 @@
 				<p>{{.advantagesHeading}}</p>
 
 				<ul class="advantages-list pb4">
-					<li>PRELIMINARY EVALUATION including testing of your existing HVAC system so you know your starting point</li>
-					<li>DESIGN, extensive options to include our professional engineering team</li>
-					<li>INSTALLATION we are a licensed & experienced professional contractor</li>
-					<li>LITTLE TO NO IMPACT on existing equipment and performance</li>
-					<li>TESTING AND COMMISSIONING of new work to measure and verify effectiveness and performance</li>
-					<li>FINAL REPORT and certification - So you not only know exactly what has improved, you can share that great information with clients, employees, customers, students or other important stakeholders</li>
+					{{ range .advantages }}
+						<li class="mv2">{{ . }}</li>
+					{{ end }}
 				</ul>
 			</div>
 		</div>
