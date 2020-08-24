@@ -89,7 +89,8 @@ stories:
   image: img/clyde-rs-4xbzcfu2uoo-unsplash.jpg
   advantagesHeading: "Our advantages include:"
   advantages:
-    - PRELIMINARY EVALUATION including testing of your existing HVAC system
+    - PRELIMINARY EVALUATION including testing of your existing HVAC system so
+      you know your starting point
     - DESIGN, extensive options to include our professional engineering team
     - INSTALLATION we are a licensed & experienced professional contractor
     - LITTLE TO NO IMPACT on existing equipment and performance
