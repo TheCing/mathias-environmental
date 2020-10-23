@@ -38,13 +38,16 @@ need:
 solution:
   heading: The Solution
   text: >-
-    Mathias provides a multidisciplinary approach and a multifaceted solution
-    analysis that we implement based on your needs and goals. Our solutions are
-    based on science; they are measurable, confirmable, efficient, and
-    effective.
+    Mathias Environmental employs a multidisciplinary approach and a
+    multifaceted solution analysis that we implement based on your needs and
+    goals. Our solutions are based on science; they are measurable, confirmable,
+    efficient, and effective.
 
 
     Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management & Controls and Scheduling.
+
+
+    Mathias provides expertise to commercial and public facilities to evaluate, design and implement effective indoor air quality strategies to battle the spread of pathogens. These include the SARS-CoV-2 novel coronavirus and the H1N1 Flu virus. Our mission is to significantly improve the indoor air quality in our clients’ facilities and help protect those that use them.
   image: img/virus.jpg
 solutions:
   - heading: Ultra Violet Light (UV-C)
