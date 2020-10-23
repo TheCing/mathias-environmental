@@ -44,10 +44,9 @@ solution:
     efficient, and effective.
 
 
+
+
     Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management & Controls and Scheduling.
-
-
-    Mathias provides expertise to commercial and public facilities to evaluate, design and implement effective indoor air quality strategies to battle the spread of pathogens. These include the SARS-CoV-2 novel coronavirus and the H1N1 Flu virus. Our mission is to significantly improve the indoor air quality in our clients’ facilities and help protect those that use them.
   image: img/virus.jpg
 solutions:
   - heading: Ultra Violet Light (UV-C)
