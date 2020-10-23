@@ -52,9 +52,10 @@ solutions:
       UV light breaks down bacteria, viruses, molds, and other pathogens by
       damaging their DNA makeup, which is the fundamental building block of the
       microorganism. This leads to the eventual death of the microorganism and
-      renders viruses inactive.
+      renders viruses inactive.  The exact type of light most effective is UVC
+      at a wavelength of approximately 254 nanometers.
 
-      The UV process is a physical, as opposed to a chemical, process. UV destroys or neutralizes viruses and microorganisms without chemically or physically impacting the indoor environment.
+      The UV process is a physical, as opposed to a chemical, process. UVC destroys or inactivates viruses and microorganisms without chemically or physically impacting the indoor environment.  In order to be effective at a meaningful level in typical mechanical systems or dynamic room environments, The UVC intensity must be significant and designed properly.  This can be properly calculated and measured and is generally several orders of magnitude higher than many "off the shelf" products being sold today.  
   - heading: Bipolar Ionization
     text: >
       Bipolar Ionization is integrated into the HVAC system to distribute vast
