@@ -44,7 +44,7 @@ solution:
     effective.
 
 
-    Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management & Controls and Scheduling
+    Potential solutions include: UVC, Advanced Air Filtering, Bipolar Ionization, Outdoor Air Enhancement, Airflow Management & Controls and Scheduling.
   image: img/virus.jpg
 solutions:
   - heading: Ultra Violet Light (UV-C)
@@ -56,18 +56,20 @@ solutions:
       at a wavelength of approximately 254 nanometers.
 
       The UV process is a physical, as opposed to a chemical, process. UVC destroys or inactivates viruses and microorganisms without chemically or physically impacting the indoor environment.  In order to be effective at a meaningful level in typical mechanical systems or dynamic room environments, The UVC intensity must be significant and designed properly.  This can be properly calculated and measured and is generally several orders of magnitude higher than many "off the shelf" products being sold today.  
-  - heading: Bipolar Ionization
+  - heading: Ionization
     text: >
-      Bipolar Ionization is integrated into the HVAC system to distribute vast
-      numbers of charged ions that attach themselves to viruses, bacteria, mold
-      and other types of particles and render them harmless by changing their
-      physical/chemical structure.  It also causes very small particles to stick
-      together to drop to the ground or allow your filtration system to be more
-      effective in removing them from the air.  While this technology has been
-      employed for many years, it is still considered an emerging
-      technology.  BPI's impact on indoor air quality is variable and difficult
-      to measure.  Its use should be carefully considered based upon specific
-      space use, occupancy and conditions.
+      Bipolar Ionization and/or Photocatalytic Oxidation is typically integrated
+      into the HVAC system to distribute vast numbers of charged ions or
+      radicals that attach themselves to viruses, bacteria, mold and other types
+      of particles and render them harmless by changing their physical/chemical
+      structure.  It also can cause very small particles to stick together to
+      drop to the ground or allow your filtration system to be more effective in
+      removing them from the air.  While this technology has been employed for
+      many years, it is still considered an emerging technology for pathogen
+      treatment in the air stream.  BPI & PCO's impact on indoor air quality is
+      variable and difficult to measure.  Its use should be carefully considered
+      based upon the specific space, function, occupancy and other critical
+      conditions.
   - heading: Advanced Air Filtering
     text: Designing and placing advance air filter technology into your existing
       system adds another level of effectiveness or another type of approach.
