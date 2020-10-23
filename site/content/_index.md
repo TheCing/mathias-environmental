@@ -62,7 +62,11 @@ solutions:
       and other types of particles and render them harmless by changing their
       physical/chemical structure.  It also causes very small particles to stick
       together to drop to the ground or allow your filtration system to be more
-      effective in removing them from the air.
+      effective in removing them from the air.  While this technology has been
+      employed for many years, it is still considered an emerging
+      technology.  BPI's impact on indoor air quality is variable and difficult
+      to measure.  Its use should be carefully considered based upon specific
+      space use, occupancy and conditions.
   - heading: Advanced Air Filtering
     text: Designing and placing advance air filter technology into your existing
       system adds another level of effectiveness or another type of approach.
