@@ -18,12 +18,7 @@ challenge:
   image: img/Picture5.png
 intro:
   heading: What We Offer
-  text: Mathias Environmental helps high-use facilities such as schools,
-    universities, medical offices, dental practices, restaurants, churches and
-    office spaces to evaluate, design and implement effective indoor air quality
-    strategies to battle the spread of pathogens. These include SARS-CoV-2 novel
-    coronavirus and the H1N1 Flu virus. Our goal is to help you improve the
-    indoor air quality of your facilities and help protect those that use them.
+  text: Mathias Environmental provides expertise to commercial and public facilities to evaluate, design and implement effective indoor air quality strategies to battle the spread of pathogens. These include the SARS-CoV-2 novel coronavirus and the H1N1 Flu virus. Our mission is to significantly improve the indoor air quality in our clients’ facilities and help protect those that use them.
 banner: Under Construction
 displayBanner: true
 title: Mathias Environmental
@@ -57,7 +52,7 @@ solutions:
       renders viruses inactive.  The exact type of light most effective is UVC
       at a wavelength of approximately 254 nanometers.
 
-      The UV process is a physical, as opposed to a chemical, process. UVC destroys or inactivates viruses and microorganisms without chemically or physically impacting the indoor environment.  In order to be effective at a meaningful level in typical mechanical systems or dynamic room environments, The UVC intensity must be significant and designed properly.  This can be properly calculated and measured and is generally several orders of magnitude higher than many "off the shelf" products being sold today.  
+      The UV process is a physical, as opposed to a chemical, process. UVC destroys or inactivates viruses and microorganisms without chemically or physically impacting the indoor environment.  In order to be effective at a meaningful level in typical mechanical systems or dynamic room environments, The UVC intensity must be significant and designed properly.  This can be properly calculated and measured and is generally several orders of magnitude higher than many "off the shelf" products being sold today.
   - heading: Ionization
     text: >
       Bipolar Ionization and/or Photocatalytic Oxidation is typically integrated
